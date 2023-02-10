@@ -1,1 +1,1 @@
-# azujre-ad-demos
+# azure-ad-demos
